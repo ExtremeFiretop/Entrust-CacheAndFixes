@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00 - By Joel Samson
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\Entrust.EntrustFormat]
+"LoadBehavior"=dword:00000003
+[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\Entrust.SMIMEFormat]
+"LoadBehavior"=dword:00000003
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Resiliency\DoNotDisableAddinList]
+"Entrust.EntrustFormat"=dword:00000001
+"Entrust.SMIMEFormat"=dword:00000001
+[-HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Resiliency\DisabledItems]
